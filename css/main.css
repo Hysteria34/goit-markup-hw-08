@@ -424,25 +424,25 @@
 
 @media screen and (min-width: 480px) {
   .hat {
-    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(/images/Mobile-hat-1x.jpg);
+    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/Mobile-hat-1x.jpg);
   }
 }
 
 @media screen and (min-width: 480px) and (min-resolution: 2dppx) {
   .hat {
-    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(/images/Mobile-hat-2x.jpg);
+    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/Mobile-hat-2x.jpg);
   }
 }
 
 @media screen and (min-width: 768px) {
   .hat {
-    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(/images/Table-hat-1x.jpg);
+    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/Table-hat-1x.jpg);
   }
 }
 
 @media screen and (min-width: 768px) and (min-resolution: 2dppx) {
   .hat {
-    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(/images/Table-hat-2x.jpg);
+    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/Table-hat-2x.jpg);
   }
 }
 
@@ -454,7 +454,7 @@
 
 @media screen and (min-width: 1200px) and (min-resolution: 2dppx) {
   .hat {
-    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(/images/PC-hat-2x.jpg);
+    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/PC-hat-2x.jpg);
   }
 }
 
