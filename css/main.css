@@ -296,6 +296,18 @@
   transition: transform 250ms ease-in-out;
 }
 
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  .menu-container {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .menu-container {
+    display: none;
+  }
+}
+
 .menu-container.is-open {
   transform: translateX(0);
 }
@@ -854,7 +866,7 @@
 }
 
 .footer {
-  width: 100vw;
+  width: 100%;
   background-color: #2F303A;
   display: inline-flex;
   flex-direction: column;
